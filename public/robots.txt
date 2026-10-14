@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api/
+Disallow: /_build/
+Disallow: /dashboard
+Disallow: /account
+
+# Sitemap
+Sitemap: https://themumadventures.com/sitemap.xml
